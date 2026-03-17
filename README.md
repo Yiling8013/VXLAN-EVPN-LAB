@@ -10,7 +10,7 @@ This repository includes topology diagrams, device configurations, and validatio
 ---
 
 ## Topology
-![Lab Topology](./Topology/VXLAN_EVPN_Multisite_LAB_Visio.png)
+![Lab Topology](./Topology/VXLAN_EVPN_Multisite_LAB1_Visio.png)
 The Visio network diagram shown above illustrates the overall architecture of this lab environment.
 
 ![Lab Topology](./Topology/VXLAN_EVPN_Multisite_LAB.png)
